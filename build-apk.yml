@@ -1,7 +1,5 @@
 name: Build APK
 
-# Запускается автоматически при каждой заливке кода в ветку main,
-# а также вручную через вкладку Actions (кнопка "Run workflow")
 on:
   push:
     branches: [ main ]
